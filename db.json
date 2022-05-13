@@ -1,0 +1,114 @@
+{
+  "candidate": {
+    "id": 1,
+    "firstName": "Branislav",
+    "lastName": "Stojcic",
+    "email": "bane96@gmail.com"
+  },
+  "candidates": [
+    {
+      "id": 1,
+      "firstName": "Pera",
+      "lastName": "Peric",
+      "email": "pera@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Laza",
+      "lastName": "Lazic",
+      "email": "laza@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Nikola",
+      "lastName": "Nikolic",
+      "email": "nikola@gmail.com"
+    }
+  ],
+  "skills": [
+    {
+      "candidateId": 1,
+      "skill": "js",
+      "year": 2021,
+      "id": 8
+    },
+    {
+      "candidateId": 1,
+      "skill": "ssdasd",
+      "year": 2022244,
+      "id": 9
+    },
+    {
+      "candidateId": 3,
+      "skill": "js",
+      "year": 2021,
+      "id": 10
+    },
+    {
+      "candidateId": 3,
+      "skill": "css",
+      "year": 2022,
+      "id": 11
+    },
+    {
+      "candidateId": 3,
+      "skill": "js",
+      "year": 2021,
+      "id": 12
+    },
+    {
+      "candidateId": 3,
+      "skill": "js",
+      "year": 2024,
+      "id": 13
+    },
+    {
+      "candidateId": 3,
+      "skill": "mysql",
+      "year": 2024,
+      "id": 14
+    },
+    {
+      "candidateId": 3,
+      "skill": "aaaa",
+      "year": 2024,
+      "id": 15
+    },
+    {
+      "candidateId": 2,
+      "skill": "ss",
+      "year": 2021,
+      "id": 16
+    },
+    {
+      "candidateId": 2,
+      "skill": "js",
+      "year": 2021,
+      "id": 17
+    },
+    {
+      "candidateId": 2,
+      "skill": "js",
+      "year": 2021,
+      "id": 18
+    },
+    {
+      "candidateId": 2,
+      "skill": "aaaa",
+      "year": 2024,
+      "id": 20
+    },
+    {
+      "candidateId": 2,
+      "skill": "mysql",
+      "year": 2020,
+      "id": 21
+    },
+    {
+      "candidateId": 1,
+      "skill": "vgbx",
+      "year": 2021,
+      "id": 22
+    }
+  ]
+}
